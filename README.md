@@ -15,7 +15,6 @@ Currently exploring **Reinforcement Learning, Large Language Model applications,
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine-Learning-blue?style=for-the-badge)
-![OpenCV](https://img.shields.io/badge/OpenCV-red?style=for-the-badge\&logo=opencv)
 ![React](https://img.shields.io/badge/React-black?style=for-the-badge\&logo=react)
 ![MongoDB](https://img.shields.io/badge/MongoDB-green?style=for-the-badge\&logo=mongodb)
 
