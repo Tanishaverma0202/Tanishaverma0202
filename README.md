@@ -37,7 +37,7 @@ Engineered backend AI inference workflows (OpenAI APIs + Ollama local LLMs) and 
 ### 📊 Public Safety Analytics Dashboard
 Interactive dashboard analyzing **10,000+ public safety data points**.
 - Automated data-processing pipelines using Pandas
-- Built visualization and reporting layer with Streamlit and Matplotlib to support faster, data-driven decisions
+- Built a visualization and reporting layer with Streamlit and Matplotlib to support faster, data-driven decisions
 
 ### 🚆 RailOptima — AI Train Scheduling Optimization
 AI system optimizing railway scheduling using **reinforcement learning and simulation-based optimization**.
@@ -45,13 +45,13 @@ AI system optimizing railway scheduling using **reinforcement learning and simul
 - Designed AI models to dynamically adjust routing and scheduling
 - **Top 25 of 270+ teams**, Banasthali Internal Hackathon → advanced to **Smart India Hackathon (SIH) 2025**
 
-### 🧠 MedSage — AI Healthcare Assistant
+### 🧠 MedSage: AI Healthcare Assistant
 AI-powered healthcare assistant built with **LLMs and Retrieval-Augmented Generation (RAG)**.
 - Answers medical queries using contextual knowledge retrieval across multiple sources
 - Integrates Hugging Face Transformers and OpenAI APIs
 - Designed a modular, API-based architecture for scalable deployment
 
-### 🚇 MetroVision — Metro Crowd Detection Platform
+### 🚇 MetroVision: Metro Crowd Detection Platform 
 Real-time computer vision system detecting passenger congestion in metro stations.
 - Implemented a YOLO + OpenCV object-detection pipeline
 - Built real-time crowd-monitoring analytics from live video feeds
@@ -61,7 +61,7 @@ Real-time computer vision system detecting passenger congestion in metro station
 ## 🏆 Achievements
 
 - 🏅 Top 25 of 270+ teams — Banasthali Internal Hackathon
-- 🎯 Selected to represent institution at Smart India Hackathon (SIH) 2025
+- 🎯 Selected to represent the institution at Smart India Hackathon (SIH) 2025
 - 📘 Completed Graph Theory Programming Camp — AlgoUniversity
 - 💡 Participant — Microsoft Azure Ideathon & GDG Codefront Hackathon
 
@@ -78,8 +78,8 @@ Real-time computer vision system detecting passenger congestion in metro station
 
 ## 🌐 Connect With Me
 
-- **Portfolio:** [add your portfolio link here]
-- **LinkedIn:** [add your LinkedIn link here]
+- **Portfolio:** 
+- **LinkedIn:** www.linkedin.com/in/tanishaverma72
 - **Email:** tanishaverma2727@gmail.com
 
 ---
