@@ -11,9 +11,11 @@ Currently strengthening **product analysis, reinforcement learning, and scalable
 ## 💼 Experience
 
 **Data Analysis Project Developer — Mother Dairy** · May 2026 – Jul 2026
+
 Built an AI-assisted analysis system on large-scale SAP datasets, delivering interactive dashboards and automated pipelines that surfaced operational trends and anomalies for business stakeholders.
 
 **Full-Stack Machine Learning Developer — Quantum Bettle Pvt. Ltd.** · May 2025 – Jul 2025
+
 Engineered backend AI inference workflows (OpenAI APIs + Ollama local LLMs) and deployed a RAG system to improve response accuracy for an AI-powered grade calculator platform.
 
 ---
