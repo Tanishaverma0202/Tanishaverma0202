@@ -78,7 +78,7 @@ Real-time computer vision system detecting passenger congestion in metro station
 
 ## 🌐 Connect With Me
 
-- **Portfolio:** 
+- **Portfolio:** https://tanishasportfolioexpress.netlify.app/
 - **LinkedIn:** www.linkedin.com/in/tanishaverma72
 - **Email:** tanishaverma2727@gmail.com
 
